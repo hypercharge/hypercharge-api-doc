@@ -7,6 +7,6 @@ hypercharge payment gateway XML API documentation:
 
 API version 1.9
 
-Documentation version 2.24
+Documentation version 2.25
 
-October 21, 2014
+November 28, 2014
